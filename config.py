@@ -1,7 +1,8 @@
 
 import traceback
 
-CONFIG_FILE_PATH = '/Users/Chocks/'
+# ADD config path here:
+CONFIG_FILE_PATH = '/home/'
 
 
 class Config:
